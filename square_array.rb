@@ -3,4 +3,3 @@ def square_array(array)
   array.each{|a| new_numbers.push(a*a)}
   return new_numbers
 end
-
